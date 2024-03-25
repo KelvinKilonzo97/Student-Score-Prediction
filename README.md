@@ -1,2 +1,2 @@
 # Projects-2024-April
-Here is where I save my practice projects that I do on a daily basis based on real world data
+In this project, the data has a number of factors or attributes that contribute to a sudent's score. I got to do some machine learning modelling to ssee the features that contributed most to a student's score since there are features that affected the score more compared to others
